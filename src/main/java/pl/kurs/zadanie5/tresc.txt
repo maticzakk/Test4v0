@@ -1,0 +1,7 @@
+Poproś program aby zapytal Cię o datę Twojego urodzenia
+- jeśli podałeś datę późniejszą niż dziś to niech program rzuci błędem: InvalidBirthDateException
+- program wypisuje ile dni żyjesz już
+- program wypisuje ile już miesiecy żyjesz
+- program wypisuje już ile lat żyjesz
+- program wypisuje w który dzień tygodnia się urodziłeś
+- wypisz najbliższy piątek 13ego który wystąpił PO twoich urodzinach.

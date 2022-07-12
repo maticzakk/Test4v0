@@ -1,0 +1,4 @@
+Zadanie 2 Wykorzystując optional:
+- zapytaj użytkownika o jego imie, jeśli imie będzie podane to wypisz długość imienia, jeśli nie to wypisz 0.
+- zapytaj użytkownika o pesel, jeśli będzie podany poprawny pesel (11 zankow powiedzmy wiekszej walidacji nie ma co robic, no i nie null i nie pusty)
+to bierzemy date urodzenia z tego numeru, w przeciwnym przypadku rzucamy wyjatkiem InvlaidPeselException
